@@ -53,9 +53,9 @@ python main.py
 
 ### Voice Commands
 
-- **"That's my explanation"**: End your current explanation and get feedback
-- **"Change word please"**: Skip the current word and get a new one
-- **"End this conversation please"**: Exit the application
+- **"upto you | your turn | next to you | over to you "**: End your current explanation and get feedback
+- **"give me a new word | another word | new word"**: Skip the current word and get a new one
+- **"goodbye"**: Exit the application
 
 ### User Interface
 
